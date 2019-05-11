@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MotionLayoutEx</string>
+    <string name="hello_motion">Hello MOTION</string>
+    <string name="go_first">GO FIRST</string>
+    <string name="go_second">GO SECOND</string>
+</resources>
