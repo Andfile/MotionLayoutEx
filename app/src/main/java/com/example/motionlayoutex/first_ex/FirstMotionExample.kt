@@ -16,10 +16,19 @@ class FirstMotionExample : AppCompatActivity() {
     private fun replaceFragment() {
         UtilsFragment.replaceFragment(
             supportFragmentManager,
-            ExampleWithMotionLayout.newInstance(),
+            FirstExampleWithConstraintSet.newInstance(),
             R.id.fragment_container,
             false
         )
     }
+
+    /*private fun replaceFragment() {
+        UtilsFragment.replaceFragment(
+            supportFragmentManager,
+            ExampleWithMotionLayout.newInstance(),
+            R.id.fragment_container,
+            false
+        )
+    }*/
 
 }

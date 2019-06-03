@@ -9,9 +9,9 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".third_ex.ThirdExActivity">
+        <activity android:name=".third_ex.ThirdExImageActivity">
         </activity>
-        <activity android:name=".second_ex.SecondExActivity">
+        <activity android:name=".second_ex.SecondExCustomAttrsActivity">
         </activity>
         <activity android:name=".first_ex.FirstMotionExample">
         </activity>
